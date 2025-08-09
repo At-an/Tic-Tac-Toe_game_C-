@@ -1,0 +1,14 @@
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.AssemblyInfoInputs.cache
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.AssemblyInfo.cs
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\bin\Debug\net9.0\Projects.exe
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\bin\Debug\net9.0\Projects.deps.json
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\bin\Debug\net9.0\Projects.runtimeconfig.json
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\bin\Debug\net9.0\Projects.dll
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\bin\Debug\net9.0\Projects.pdb
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.dll
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\refint\Projects.dll
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.pdb
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\Projects.genruntimeconfig.cache
+C:\Users\ANGE\Documents\Personal and Professional\Internship_Activities\Learning_Curve\C#_Tutorial\Projects\obj\Debug\net9.0\ref\Projects.dll
